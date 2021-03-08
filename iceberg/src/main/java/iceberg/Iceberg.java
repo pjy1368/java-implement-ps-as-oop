@@ -1,6 +1,7 @@
 package iceberg;
 
 import java.util.List;
+import java.util.Objects;
 
 public class Iceberg {
 
@@ -23,5 +24,26 @@ public class Iceberg {
 
     public boolean isSeaSide() {
         return height == 0;
+    }
+
+    public int getHeight() {
+        return height;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) {
+            return true;
+        }
+        if (o == null || getClass() != o.getClass()) {
+            return false;
+        }
+        Iceberg iceberg = (Iceberg) o;
+        return height == iceberg.height;
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(height);
     }
 }
