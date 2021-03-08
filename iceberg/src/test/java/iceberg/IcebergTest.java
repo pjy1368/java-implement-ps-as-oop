@@ -32,4 +32,13 @@ class IcebergTest {
         iceberg = new Iceberg(4);
         assertThat(iceberg.minusHeight(adjacentIcebergs)).isEqualTo(1);
     }
+
+    @Test
+    @DisplayName("빙산이 다 녹아서 바닷면이 되었는지 확인")
+    void isSeaSide() {
+        iceberg = new Iceberg(3);
+        iceberg.minusHeight(adjacentIcebergs);
+        assertThat(iceberg.isSeaSide()).isTrue();
+    }
+
 }
