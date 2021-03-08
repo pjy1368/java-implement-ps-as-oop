@@ -3,10 +3,16 @@ package iceberg;
 import java.util.List;
 
 public class Iceberg {
-    private final int height;
 
-    public Iceberg(final int height) {
+    private int height;
+
+    public Iceberg(int height) {
         this.height = height;
+    }
+
+    public int minusHeight(final List<Iceberg> adjacentIcebergs) {
+        height -= getSeaSideCount(adjacentIcebergs);
+        return height;
     }
 
     public int getSeaSideCount(final List<Iceberg> adjacentIcebergs) {
