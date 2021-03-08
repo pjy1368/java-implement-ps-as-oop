@@ -20,3 +20,7 @@ bin/
 *.iml
 *.ipr
 © 2021 GitHub, Inc.
+
+/gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
+/settings.gradle
