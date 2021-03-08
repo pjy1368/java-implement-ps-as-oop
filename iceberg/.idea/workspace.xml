@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35a246d0-9964-4a9b-85b7-b59ec3bb3d8b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iceberg/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iceberg/Iceberg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iceberg/Icebergs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iceberg/Sea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/iceberg/IcebergTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/iceberg/IcebergsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/iceberg/SeaTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1pSoYlAydNWVmuWfgOVaVJtw4gw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-iceberg" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="iceberg" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SeaTest.create">
+    <configuration name="IcebergTest.isSeaSide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="iceberg.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iceberg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="iceberg" />
+      <option name="MAIN_CLASS_NAME" value="iceberg.IcebergTest" />
+      <option name="METHOD_NAME" value="isSeaSide" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IcebergTest.minusHeight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="iceberg.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iceberg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="iceberg" />
+      <option name="MAIN_CLASS_NAME" value="iceberg.IcebergTest" />
+      <option name="METHOD_NAME" value="minusHeight" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IcebergsTest.create" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="iceberg.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iceberg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="iceberg" />
+      <option name="MAIN_CLASS_NAME" value="iceberg.IcebergsTest" />
+      <option name="METHOD_NAME" value="create" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeaTest.create" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="iceberg.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iceberg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="iceberg" />
+      <option name="MAIN_CLASS_NAME" value="iceberg.SeaTest" />
+      <option name="METHOD_NAME" value="create" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeaTest.getIcebergsCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="iceberg.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iceberg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="iceberg" />
+      <option name="MAIN_CLASS_NAME" value="iceberg.SeaTest" />
+      <option name="METHOD_NAME" value="getIcebergsCount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SeaTest.create" />
+        <item itemvalue="JUnit.IcebergsTest.create" />
+        <item itemvalue="JUnit.SeaTest.getIcebergsCount" />
+        <item itemvalue="JUnit.IcebergTest.isSeaSide" />
+        <item itemvalue="JUnit.IcebergTest.minusHeight" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35a246d0-9964-4a9b-85b7-b59ec3bb3d8b" name="Default Changelist" comment="" />
+      <created>1615185903539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615185903539</updated>
+      <workItem from="1615185906771" duration="6494000" />
+      <workItem from="1615201675413" duration="82000" />
+      <workItem from="1615201778061" duration="91000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: 초기 세팅">
+      <created>1615186063971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615186063971</updated>
+    </task>
+    <task id="LOCAL-00002" summary="refactor: gitignore에 들어갈 경로 추가">
+      <created>1615186203701</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615186203701</updated>
+    </task>
+    <task id="LOCAL-00003" summary="docs: 요구 사항 정의">
+      <created>1615188271781</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615188271781</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat(Iceberg): 빙산의 동서남북 방향에 붙어있는 바닷면의 개수를 구하는 로직 구현">
+      <created>1615189405384</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615189405384</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat(Iceberg): 바닷면의 개수만큼 빙산의 높이를 줄이는 기능 구현">
+      <created>1615189709632</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615189709632</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat(IcebergTest): 빙산이 다 녹아서 바닷면이 되었는지 확인하는 테스트 코드 작성">
+      <created>1615189808949</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615189808949</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: Icebergs와 Sea 클래스 정의">
+      <created>1615193436487</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615193436487</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: 초기 세팅" />
+    <MESSAGE value="refactor: gitignore에 들어갈 경로 추가" />
+    <MESSAGE value="docs: 요구 사항 정의" />
+    <MESSAGE value="feat(Iceberg): 빙산의 동서남북 방향에 붙어있는 바닷면의 개수를 구하는 로직 구현" />
+    <MESSAGE value="feat(Iceberg): 바닷면의 개수만큼 빙산의 높이를 줄이는 기능 구현" />
+    <MESSAGE value="feat(IcebergTest): 빙산이 다 녹아서 바닷면이 되었는지 확인하는 테스트 코드 작성" />
+    <MESSAGE value="feat: Icebergs와 Sea 클래스 정의" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Icebergs와 Sea 클래스 정의" />
+  </component>
+</project>
